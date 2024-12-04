@@ -1,6 +1,3 @@
-<img src="images/logo-diariamente.jpg" alt="Logo do projeto" width="200" />
----
-
 # **Diariamente**
 
 
@@ -109,3 +106,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo para mais deta
 ## **Contato**
 - **Nome:** João Victor Santos
 - **e-mail:** joaovictorsantos10@hotmail.com.br
+
+<img src="images/logo-diariamente.jpg" alt="Logo do projeto" width="200" />
