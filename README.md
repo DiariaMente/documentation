@@ -80,7 +80,7 @@ Antes de instalar e executar o projeto, certifique-se de ter os seguintes itens 
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/diariamente.git
+   git clofne https://github.com/seu-usuario/diariamente.git
    cd diariamente 
    
 2. **Configure o Banco de Dados:**
