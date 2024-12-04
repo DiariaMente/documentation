@@ -80,8 +80,8 @@ Antes de instalar e executar o projeto, certifique-se de ter os seguintes itens 
 1. **Clone o Repositório:**
 
    ```bash
-   git clofne https://github.com/seu-usuario/diariamente.git
-   cd diariamente 
+   git clone https://github.com/DiariaMente/core-project.git
+   cd core-project 
    
 2. **Configure o Banco de Dados:**
 - Execute o arquivo diariamente_DB.sql contendo o script de criação e configuração do banco.
