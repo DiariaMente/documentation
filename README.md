@@ -1,4 +1,7 @@
-# **Diariamente** <img src="images/logo-diariamente.jpg" alt="Logo do projeto" width="200" />
+<img src="images/logo-diariamente.jpg" alt="Logo do projeto" width="200" />
+---
+
+# **Diariamente**
 
 
 
