@@ -1,6 +1,6 @@
 # **Diariamente**
 
-![Logo do Projeto Diariamente](images/logo-diariamente.jpg)
+![Logo do Projeto Diariamente](images/logo diariamente)
 
 
 O Diariamente é um diário para registro de pensamentos e acontecimentos com foco em escrita expressiva, reflexão e percepção das emoções.
