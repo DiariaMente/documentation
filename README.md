@@ -103,6 +103,15 @@ Antes de instalar e executar o projeto, certifique-se de ter os seguintes itens 
 ## **Licença**
 Este projeto está licenciado sob a Licença MIT - veja o arquivo para mais detalhes.
 
+## **Referências de Pesquisa**
+(Murray, B. (2002). Writing to heal. Monitor on Psychology, 33(6), 54. https://www.apa.org/monitor/jun02/writing)
+
+(Pennebaker, J. W. (1986). Writing about emotional experiences as a therapeutic process. https://journals.sagepub.com/doi/10.1111/j.1467-9280.1997.tb00403.x)
+
+(Kross, E., Ayduk, Ö., & Moser, J. (2021, July 29). Writing Can Help Us Heal from Trauma. https://hbr.org/2021/07/writing-can-help-us-heal-from-trauma. Harvard Business Review)
+
+(Gross, J. J. (2017). Emotion regulation: Past, present, future. Perspectives on Psychological Science, 13(2), 273–277. https://doi.org/10.1177/1745691617707315)
+
 ## **Contato**
 - **Nome:** João Victor Santos
 - **e-mail:** joaovictorsantos10@hotmail.com.br
